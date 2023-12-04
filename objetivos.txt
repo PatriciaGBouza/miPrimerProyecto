@@ -1,1 +1,2 @@
 Primer objetivo: visualizar todas las clases grabadas dentro de la semana en que se han dado.
+Segundo objetivo: entregar todas las actividades a tiempo.
